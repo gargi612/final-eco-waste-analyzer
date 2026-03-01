@@ -6,9 +6,9 @@
 Eco Waste Analyzer is an end-to-end AI application that identifies waste types (Biodegradable, Recyclable, Hazardous) from an image and calculates the CO₂ emissions saved by proper disposal.
 It includes:
 
-* **React Frontend (Vite)**
-* **FastAPI Backend**
-* **Deep Learning Model (MobileNetV2)**
+*  **React Frontend (Vite)**
+*  **FastAPI Backend**
+*  **Deep Learning Model (MobileNetV2)**
 *  **Custom-trained Waste Classifier**
 *  **Fully deployable on Render + Vercel**
 
@@ -51,7 +51,7 @@ Beautiful UI with:
 
 ---
 
-### 🚀 **FastAPI Backend**
+###  **FastAPI Backend**
 
 Provides clean API endpoints:
 
@@ -107,7 +107,7 @@ eco-waste-analyzer/
 
 ---
 
-##  Setup Instructions
+## 🛠️ Setup Instructions
 
 ### ** Backend (FastAPI)**
 
@@ -164,8 +164,6 @@ VITE_API_URL=http://localhost:8000
 
 
 
----
-
 ##  Tech Stack
 
 * **Python** (FastAPI, PyTorch, Torchvision)
@@ -177,5 +175,3 @@ VITE_API_URL=http://localhost:8000
 ---
 
 
-✅ Add a "How it works internally" section
-Just tell me!
